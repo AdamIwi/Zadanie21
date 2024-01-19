@@ -1,2 +1,3 @@
 main		09:03 19.01.2024	AI: Pierwsza linia'kodu'
 main		09:09 19.01.2024	MA: Druga linia 'kodu'
+feature-trzecia 09:12 19.01.2024	MA: Trzecia linia 'kodu'
